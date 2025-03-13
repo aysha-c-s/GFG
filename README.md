@@ -26,7 +26,6 @@ experience for all users, whether donors or recipients.
 -	Record Keeping for Donation Status
 -	Real-time Updates 
 -	Search and Filter 
--	Event Coordination 
 -	Emergency Notice Board 
 -	Data Storage 
 
